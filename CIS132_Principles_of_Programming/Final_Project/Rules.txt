@@ -1,0 +1,11 @@
+Welcome to Bryan Campbell's Blackjack!
+
+Two players enter!
+One player leaves!
+
+-Each card has a specific value: face cards are worth 10, aces are worth 11, and numbers are equal to themselves.
+-The goal of the game is to collect cards to get as close to 21 without going over.
+-Every player starts the game with two cards. The dealer also has two cards, but one is hidden from the player.
+-To take another card, hit. If you're content with your current hand, stand.
+-If you go over 21, you 'bust' and automatically lose. If your hand's value is greater than the dealer's, you win!
+-If it's a tie game, that's called a 'push'
