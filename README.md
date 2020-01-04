@@ -1,4 +1,4 @@
 # Carroll Community College
 Carroll County Community College is a two-year community college serving the residents of Carroll County, Maryland, United States.
 
-This folder contains coursework completed for a Computer Science major from Towson University.
+This folder contains coursework that will transfer to Towson University for a Computer Science major.
