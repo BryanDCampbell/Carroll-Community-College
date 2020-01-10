@@ -1,4 +1,4 @@
-The Final Project was designed to incorporate all skills students learned throughout the course. STudents were to create a playable game that fulfilled these specific requirements:
+The Final Project was designed to incorporate all skills students learned throughout the course. Students were to create a playable game that fulfilled these specific requirements:
 
 (Put a comment in the code where you have included the following requirements)
 1. Display your name when the project runs.
