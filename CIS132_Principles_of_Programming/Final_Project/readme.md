@@ -5,7 +5,7 @@ The Final Project was designed to incorporate all skills students learned throug
 2. Accept both String and numeric input from the user. Use input validation.
 3. Use at least one method from TWO of the following classes:
 
-    a.String
+    a. String
     
     b. Math
     
