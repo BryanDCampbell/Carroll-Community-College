@@ -4,8 +4,11 @@ The Final Project was designed to incorporate all skills students learned throug
 1. Display your name when the project runs.
 2. Accept both String and numeric input from the user. Use input validation.
 3. Use at least one method from TWO of the following classes:
-    a.Stirng
+
+    a.String
+    
     b. Math
+    
     c. Random
 4. Include at least one if statement
 5. Include at least one switch statement
