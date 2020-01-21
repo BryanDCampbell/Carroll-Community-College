@@ -1,3 +1,6 @@
+# Final Project
+## Principles of Programming
+### Carroll Community College
 The Final Project was designed to incorporate all skills students learned throughout the course. Students were to create a playable game that fulfilled these specific requirements:
 
 (Put a comment in the code where you have included the following requirements)
